@@ -72,5 +72,5 @@ Lecture notes
 Presentations 
 https://drive.google.com/drive/my-drive
 Quiz
-https://www.testportal.net/manager/LoadTestInfo.html?tid=8103748
+[https://www.testportal.net/manager/LoadTestInfo.html?tid=8103748](https://www.testportal.net/manager/LoadManageQuestions.html?tid=8103748)
 
